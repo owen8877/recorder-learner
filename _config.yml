@@ -34,6 +34,9 @@ url: https://blog.xdrd.tech
 baseurl: "/recorder-learner"
 
 include: ['_pages']
+pages:
+  - ['/pieces', '曲目合集']
+
 permalink: /:year/:month/:day/:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0
