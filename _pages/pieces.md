@@ -1,3 +1,9 @@
+---
+permalink: "/pieces/"
+layout: page
+title:  "曲目合辑"
+---
+
 ## 曲目合辑
 - [Flute Sonata in E minor, BWV 1034](https://imslp.org/wiki/Flute_Sonata_in_E_minor,_BWV_1034_\(Bach,_Johann_Sebastian\)) - III. Andante
 - [Flute Sonata in B minor, HWV 367b](https://cn.imslp.org/wiki/Flute_Sonata_in_B_minor%2C_HWV_367b_\(Handel%2C_George_Frideric\)) - II. Vivace
