@@ -34,7 +34,7 @@ url: https://blog.xdrd.tech
 baseurl: "/recorder-learner"
 
 include: ['_pages']
-pages:
+navigation:
   - ['/pieces', '曲目合集']
 
 permalink: /:year/:month/:day/:title/
